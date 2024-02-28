@@ -8,6 +8,10 @@
 
 The Ultimate Toroidal Propeller Generator is an open source project that provides a way to generate STL files of toroidal drone propellers.
 
+This Fork of the Ultimate Toroidal Propeller Generator remixes it to create propellers compatible with "The Ultimate Propeller Launcher w/ 64x Gearbox" on Printables
+https://www.printables.com/model/705856-the-ultimate-propeller-launcher-w-64x-gearbox/remixes
+
+
 |![3 blades propeller](./img/preview_1.PNG)|![5 blades propeller](./img/preview_2.PNG)|
 |---|---|
 
